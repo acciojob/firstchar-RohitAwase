@@ -1,6 +1,6 @@
 function firstChar(text) {
   for (let i = 0; i < str.length; i++) {
-        if (str[i] !== " ") {
+        if (text[i] !== " ") {
             return str[i];
         }
     }
